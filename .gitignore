@@ -59,4 +59,8 @@ logs/
 
 .env
 secrets.py
-local_config.py 
+local_config.py
+tr_imst-ud-train.conllu
+tr_imst-ud-test.conllu
+
+requirements.txt
